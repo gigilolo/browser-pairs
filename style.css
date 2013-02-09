@@ -96,14 +96,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://media-cache-ec5.pinterest.com/upload/95349717080934808_xR0zqAOl_c.jpg) no-repeat; background-size: contain;}
-.fx {background: url(http://24.media.tumblr.com/tumblr_m8g4p901QS1r5dgp2o1_1280.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://media.tumblr.com/tumblr_mapwd7KvWt1r2s43y.png) no-repeat; background-size: contain;}
-.sf {background: url(http://p.twimg.com/A0dNm01CYAASAJK.jpg:large) no-repeat; background-size: contain;}
-.op {background: url(http://static.lockerz.com/decalz/mobile/image001354393315824eua5wy.jpeg) no-repeat; background-size: contain;}
-.ns {background: url(http://sphotos-b.xx.fbcdn.net/hphotos-ash4/c0.0.403.403/p403x403/405602_329092860524303_410233912_n.jpg) no-repeat; background-size: contain;}
-.tb {background: url(http://data.whicdn.com/images/48474479/tumblr_mg6ch9wRac1rr1htco1_500_large.gif) no-repeat; background-size: contain;}
-.fm {background: url(http://i1323.photobucket.com/albums/u583/bella1711/Character%20List%20-%20Teenage%20Dirtbag/-2_zps496de72f.gif) no-repeat; background-size: contain;}
+.ie {background: url(http://media-cache-ec5.pinterest.com/upload/95349717080934808_xR0zqAOl_c.jpg) repeat; background-size: contain;}
+.fx {background: url(http://24.media.tumblr.com/tumblr_m8g4p901QS1r5dgp2o1_1280.jpg) repeat; background-size: contain;}
+.cr {background: url(http://media.tumblr.com/tumblr_mapwd7KvWt1r2s43y.png) repeat; background-size: contain;}
+.sf {background: url(http://p.twimg.com/A0dNm01CYAASAJK.jpg:large) repeat; background-size: contain;}
+.op {background: url(http://static.lockerz.com/decalz/mobile/image001354393315824eua5wy.jpeg) repeat; background-size: contain;}
+.ns {background: url(http://sphotos-b.xx.fbcdn.net/hphotos-ash4/c0.0.403.403/p403x403/405602_329092860524303_410233912_n.jpg) repeat; background-size: contain;}
+.tb {background: url(http://data.whicdn.com/images/48474479/tumblr_mg6ch9wRac1rr1htco1_500_large.gif) repeat; background-size: contain;}
+.fm {background: url(http://i1323.photobucket.com/albums/u583/bella1711/Character%20List%20-%20Teenage%20Dirtbag/-2_zps496de72f.gif) repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
